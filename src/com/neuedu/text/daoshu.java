@@ -1,8 +1,7 @@
 package com.neuedu.text;
 
-public class Xiaohan {
+public class daoshu {
     public static void main(String[] args) {
-         int a=100;
-        System.out.println(a);
+        System.out.println("请输入文件" );
     }
 }
