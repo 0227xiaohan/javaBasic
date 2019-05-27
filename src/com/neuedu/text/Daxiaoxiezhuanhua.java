@@ -11,8 +11,11 @@ public class Daxiaoxiezhuanhua {
             m-=32;
             System.out.println(m);
         }
-else{
+        else if(m>=65&&m<=90){
             System.out.println(m);
         }
+else{
+            System.out.println("不是英文，请重新输入");
+        }
     }
-}
+    }
