@@ -9,8 +9,13 @@ package com.neuedu.Javabiji;
    显示要求：女士们，先生们，大家好，我是主持人......
 晚会正式开始....
 我是男同学，我嗑瓜子，喝啤酒...
-
 * */
-public abstract class Student_class {
-    public abstract void eat();
+public interface Jie_kou {
+    void host();
+
+
 }
+
+
+
+
